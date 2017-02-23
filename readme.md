@@ -1,7 +1,7 @@
 # Senso-api
 
 This project is a simulator of api.
-You can configure routes with its headers method and parameters, and responses.
+You can configure routes with its method, parameters, and responses.
 
 ## configuration
 
