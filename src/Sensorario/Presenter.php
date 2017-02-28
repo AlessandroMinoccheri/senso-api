@@ -5,6 +5,9 @@ namespace Sensorario;
 class Presenter
 {
     private $params;
+    private $pre;
+    private $post;
+    private $content;
 
     private function __construct(array $params)
     {
